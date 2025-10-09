@@ -24,12 +24,12 @@ O projeto é estruturado em um notebook Jupyter onde:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/classificador-de-produtos-com-genai.git
+   git clone https://github.com/queirozene/generative-ai.git
    ```
 
 2. Navegue até o diretório do projeto:
    ```bash
-   cd classificador-de-produtos-com-genai
+   cd generative-ai
    ```
 
 3. Instale as dependências:
@@ -39,16 +39,16 @@ O projeto é estruturado em um notebook Jupyter onde:
 
 4. **Criação da chave da API**:
    - Crie uma conta no **Azure AI** (https://azure.microsoft.com) e gere uma chave para a API **OpenAI**.
-   - No arquivo `Classificador_de_Produtos.ipynb`, substitua as variáveis correspondentes para integrar sua chave da API.
+   - No arquivo `Template_Trabalho_final_Classificador_de_produtos_com_GenAI_GustavoQueirozRibeiro_361485.ipynb`, substitua as variáveis correspondentes para integrar sua chave da API.
 
 5. Execute o notebook:
-   - Abra o notebook `Classificador_de_Produtos.ipynb` no Jupyter Notebook ou JupyterLab.
+   - Abra o notebook `Template_Trabalho_final_Classificador_de_produtos_com_GenAI_GustavoQueirozRibeiro_361485.ipynb` no Jupyter Notebook ou JupyterLab.
    - Execute as células do notebook para ver o processo de classificação em ação.
 
 ### Estrutura de Diretórios
 
 - **data/produtos.csv**: Exemplo de dados de produtos com nome, descrição e categoria.
-- **notebooks/Classificador_de_Produtos.ipynb**: Notebook Jupyter para executar o projeto e testar a classificação.
+- **notebooks/Template_Trabalho_final_Classificador_de_produtos_com_GenAI_GustavoQueirozRibeiro_361485.ipynb**: Notebook Jupyter para executar o projeto e testar a classificação.
 
 ## 👤 Autor
 
